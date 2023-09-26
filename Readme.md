@@ -1,5 +1,5 @@
 # Hacktoberfest_Starter_2k23
-![HacktoberFest2k23](https://github.com/HardikPanwar/Hacktoberfest_Starter_2k23/blob/main/Assests/Images/BannerImage.png)
+![HacktoberFest2k23](https://github.com/HardikPanwar/Hacktoberfest_Starter_2k23/blob/master/assets/Images/BannerImage.png)
 
 ## What is Hacktoberfest ?
 - Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).
