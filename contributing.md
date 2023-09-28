@@ -59,6 +59,11 @@ For more information [take reference of this article](https://help.github.com/ar
 ```terminal
 git remote add upstream https://github.com/s-bhalode/Hacktoberfest_starter_2k23.git
 ```
-
 ➡ You can verify that the new remote has been added by typing
 ```terminal
+git remote -v
+```
+➡ To pull any new changes from your parent repo simply run
+```terminal
+git merge upstream/master
+```
