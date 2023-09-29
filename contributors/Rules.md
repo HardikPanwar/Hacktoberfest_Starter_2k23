@@ -1,8 +1,8 @@
 ## Rules for uploading your details >>>>>
-- Your file should contain only the necessary details that are provided otherwise your PR will be rejected.
+- Your file should contain only necessary details otherwise your PR will be rejected.
 
-- File Data
-
+- File Data :--------
+- 
 ```terminal
 ---
 Name: Your Name
