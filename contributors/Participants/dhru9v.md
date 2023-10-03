@@ -1,9 +1,10 @@
 ---
-Name: Your Name
-Email:- Your Email
-University/College Name:- Institution name
-Github Username :- Your Username
+Name: Dhruv Patil
+Email:- dhruvpatil369@gmail.com
+University/College Name:- Chameli devi groups of institution
+Github Username :- dhru9v
 Skills:- Your Skills (optional)
 
-About yourself (Short Introduction of yourself)
+hello my name is Dhruv Patil.I am persuing my c/c++ online 
 ---
+ git config --global user.email "dhruvpatil369@gmail.com"
