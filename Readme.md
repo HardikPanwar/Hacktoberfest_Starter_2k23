@@ -41,7 +41,7 @@ assets/Images/<YOUR_IMAGE>.png
 ```terminal
 contributors/Participants/<YOUR-NAME>.md
 ```
-- The content you have to add on your file is :-
+- The content you have to add on your file is below :-
   
 ```terminal
 ---
