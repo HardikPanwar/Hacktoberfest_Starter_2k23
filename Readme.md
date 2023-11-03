@@ -18,7 +18,7 @@
 - Choose beginner-friendly issues.
   
 - Follow project guidelines and submit pull requests (PRs) with clear descriptions.
-
+  
 ## Instructions for PR Approval 👍✅
 - First Star⭐ this Repository.
   
