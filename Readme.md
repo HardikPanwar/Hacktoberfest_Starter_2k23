@@ -1,7 +1,7 @@
 # Hacktoberfest_Starter_2k23 ⭐👉🏻(Make your First Pull Request)
 
 ## Contributors to this Repository 💻💻👥 
-<div align="center">
+<div align="left">
 <a href="https://github.com/HardikPanwar/Hacktoberfest_Starter_2k23
 /graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HardikPanwar/Hacktoberfest_Starter_2k23" />
