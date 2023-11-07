@@ -7,7 +7,7 @@
   <img src="https://contrib.rocks/image?repo=HardikPanwar/Hacktoberfest_Starter_2k23" />
 </a>
 </div>
-   
+
 ## What is Hacktoberfest ?
 - Hacktoberfest is an annual worldwide event held during the month of October. The event encourages open source developers to contribute to repositories through pull requests (PR).
 ## How to participate ?
